@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: developer.gov.sg
+  annotations:
+    github.com/project-slug: Ducksss/developer.gov.sg
+spec:
+  type: other
+  lifecycle: unknown
+  owner: developer-gov-sg
