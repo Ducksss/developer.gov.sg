@@ -21,6 +21,6 @@ IaC
 GitOps
 Auditable
 DevX
-collections/
+collections/*
 <div>
 <htmlcontent>
