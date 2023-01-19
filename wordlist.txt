@@ -17,3 +17,10 @@ GCC
 SGTS
 TechPass
 TechBizz
+IaC
+GitOps
+Auditable
+DevX
+collections/
+<div>
+<htmlcontent>
